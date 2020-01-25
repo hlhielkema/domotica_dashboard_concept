@@ -1,2 +1,4 @@
-# domotica_dashboard_concept
-Concept dashboard for home automation (domotica)
+# Domotica dashboard (concept)
+Concept dashboard for home automation (domotica).
+
+![screenshot](screenshot.png)
